@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "Over-ear Bluetooth headphones with noise isolation and 30-hour battery life.",
+    "price": 89.99,
+    "category": "Electronics",
+    "rating": 4.5,
+    "image": "/images/products/headphones.webp"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "description": "Compact mechanical keyboard with tactile switches and backlighting.",
+    "price": 74.5,
+    "category": "Electronics",
+    "rating": 4.7,
+    "image": "/images/products/keyboard.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "description": "Lightweight breathable running shoes with cushioned soles.",
+    "price": 59.0,
+    "category": "Fashion",
+    "rating": 4.2,
+    "image": "/images/products/running-shoes.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Canvas Backpack",
+    "description": "Durable 20L canvas backpack with a padded laptop compartment.",
+    "price": 42.0,
+    "category": "Fashion",
+    "rating": 4.0,
+    "image": "/images/products/backpack.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Ceramic Coffee Mug",
+    "description": "Hand-glazed 350ml ceramic mug, dishwasher safe.",
+    "price": 14.99,
+    "category": "Home",
+    "rating": 4.8,
+    "image": "/images/products/mug.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Desk Lamp",
+    "description": "Adjustable LED desk lamp with three brightness levels.",
+    "price": 33.25,
+    "category": "Home",
+    "rating": 3.9,
+    "image": "/images/products/desk-lamp.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat",
+    "description": "Non-slip 6mm yoga mat with a carrying strap.",
+    "price": 24.99,
+    "category": "Sports",
+    "rating": 4.4,
+    "image": "/images/products/yoga-mat.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Water Bottle",
+    "description": "Insulated stainless steel bottle that keeps drinks cold for 24 hours.",
+    "price": 19.5,
+    "category": "Sports",
+    "rating": 4.6,
+    "image": "/images/products/water-bottle.jpg"
+  }
+]
