@@ -1,3 +1,4 @@
+# E-commerece-Website
 # White Friday
 
 A small online store built with Next.js: a product catalog with category filtering, product detail pages, and a shopping cart that is saved in the browser.
